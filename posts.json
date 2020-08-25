@@ -1,0 +1,21 @@
+{
+  "allgenre" : [
+   {
+  "title" : "Japan",
+  "link" : "https://raw.githubusercontent.com/XCProject19/DarkCinema/master/",
+  "tag" : "japan"
+  }
+  ,
+     {
+  "title" : "Korea",
+  "link" : "https://raw.githubusercontent.com/XCProject19/DarkCinema/master/",
+  "tag" : "kora"
+  }
+  ,
+     {
+  "title" : "18+",
+  "link" : "https://raw.githubusercontent.com/XCProject19/DarkCinema/master/",
+  "tag" : "18+"
+  }
+]
+}
